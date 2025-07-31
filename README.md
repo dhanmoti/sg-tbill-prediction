@@ -1,4 +1,8 @@
 # Demo app on Hugging Face Spaces, end-to-end ML app deployment
+
+## ⚠️ Disclaimer
+This project is for educational and demonstration purposes only. It is not financial or investment advice. Past data does not guarantee future results.
+
 ## Project Overview
 I recently launched a demo app on Hugging Face Spaces that predicts upcoming Singapore T-Bill cut-off yields using machine learning. The project leverages over 20 years of auction data from both 6-month and 1-year T-Bills.
 
